@@ -28,3 +28,12 @@ Great, roll up your sleeves and get stuck in. You'll find the main repos here:
 ### I'd like to start off with some easy work
 We don't yet have many design or research related issues in each repo, but when we do, they'll be tagged with :design:, :research: and (possibly) :junior-jobs:. You can find them in each repo here.
 
+* [Website repo](https://github.com/ownpass/ownpass.github.io)
+* Extension for Firefox browser repo
+*   [Design issues](https://github.com/ownpass/firefox-extension/labels/design)
+* [Extension for Chrome browser repo](https://github.com/ownpass/chrome-extension)
+* [Extension for Internet Explorer browser repo](https://github.com/ownpass/ie-extension)
+* [Android app repo](https://github.com/ownpass/android-app)
+* [iOS app repo](https://github.com/ownpass/ios-app)
+
+
